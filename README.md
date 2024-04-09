@@ -7,4 +7,5 @@ Inspired by the odin-recipes project from The Odin Project.
 
 ### Languages Used
 
-- Basic HTML5
+- Basic HTML
+- Basic CSS
