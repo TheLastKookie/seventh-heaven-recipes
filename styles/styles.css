@@ -27,6 +27,11 @@ a {
   color: #800e13;
 }
 
+.back-to-menu {
+  color: #000000;
+  text-decoration: underline;
+}
+
 .restaurant-name {
   margin-top: 0;
 }
@@ -67,7 +72,7 @@ a {
   text-decoration: none;
 }
 
-a:hover {
+li > a:hover {
   color: #ffffff;
 }
 
