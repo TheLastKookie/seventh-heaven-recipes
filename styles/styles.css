@@ -13,9 +13,18 @@
   height: 100vh;
 }
 
+.menu {
+  background-color: #f5a6a9;
+  border: 5px solid #800e13;
+  box-shadow: 15px 15px;
+  margin: auto;
+  width: 40%;
+  height: 98%;
+}
+
 .restaurant-name,
 a {
-  color: #fc5451;
+  color: #800e13;
 }
 
 .restaurant-name {
@@ -27,6 +36,12 @@ a {
   line-height: 150%;
   list-style: none;
   text-align: left;
+}
+
+.recipe-list li {
+  background: url("../images/buster-sword.png") no-repeat left;
+  background-size: 25px;
+  padding-left: 30px;
 }
 
 .recipe-card {
