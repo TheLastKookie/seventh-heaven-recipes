@@ -1,0 +1,41 @@
+* {
+  font-family: "Lucida Handwriting", cursive;
+  text-align: center;
+}
+
+.main-container {
+  background: linear-gradient(to top right, #020909, #800e13);
+  height: 100vh;
+}
+
+.restaurant-name,
+a {
+  color: #fc5451;
+}
+
+.restaurant-name {
+  margin-top: 0;
+}
+
+.recipe-list {
+  font-size: 24px;
+  line-height: 150%;
+  list-style: none;
+  text-align: left;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffffff;
+}
+
+body {
+  margin: 0;
+}
+
+img {
+  border-radius: 25px;
+}
